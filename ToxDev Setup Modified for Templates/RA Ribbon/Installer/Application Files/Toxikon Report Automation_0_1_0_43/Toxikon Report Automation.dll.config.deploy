@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="applicationSettings" type="System.Configuration.ApplicationSettingsGroup, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="RGRib.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <system.diagnostics>
+        <sources>
+            <!-- This section defines the logging configuration for My.Application.Log -->
+            <source name="DefaultSource" switchName="DefaultSwitch">
+                <listeners>
+                    <add name="FileLog"/>
+                    <!-- Uncomment the below section to write to the Application Event Log -->
+                    <!--<add name="EventLog"/>-->
+                </listeners>
+            </source>
+        </sources>
+        <switches>
+            <add name="DefaultSwitch" value="Information" />
+        </switches>
+        <sharedListeners>
+            <add name="FileLog"
+                 type="Microsoft.VisualBasic.Logging.FileLogTraceListener, Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                 initializeData="FileLogWriter"/>
+            <!-- Uncomment the below section and replace APPLICATION_NAME with the name of your application to write to the Application Event Log -->
+            <!--<add name="EventLog" type="System.Diagnostics.EventLogTraceListener" initializeData="APPLICATION_NAME"/> -->
+        </sharedListeners>
+    </system.diagnostics>
+    <applicationSettings>
+      <RGRib.MySettings>
+        <setting name="SPStudiesFolder" serializeAs="String">
+          <value>Studies</value>
+        </setting>
+        <setting name="SPProtocolsFolder" serializeAs="String">
+          <value>Protocols</value>
+        </setting>
+        <setting name="SPReportTemplatesFolder" serializeAs="String">
+          <value>Report Templates</value>
+        </setting>
+        <setting name="LocalTempFolder" serializeAs="String">
+          <value>C:\Toxikon\Temp\</value>
+        </setting>
+        <setting name="LocalFolder" serializeAs="String">
+          <value>C:\Toxikon\</value>
+        </setting>
+        <setting name="CustomDictionaryPath" serializeAs="String">
+          <value />
+        </setting>
+        <setting name="QAGroupName" serializeAs="String">
+          <value>QA</value>
+        </setting>
+        <setting name="DPSGroupName" serializeAs="String">
+          <value>DPS</value>
+        </setting>
+        <setting name="SendEmailWhenAssignTask" serializeAs="String">
+          <value>True</value>
+        </setting>
+        <setting name="Toxikon_Report_Automation_ListsWS_Lists" serializeAs="String">
+          <value>http://mar-dev-sp2010:8081/sites/Toxdev/_vti_bin/Lists.asmx</value>
+        </setting>
+        <setting name="Toxikon_Report_Automation_UserGroupWS_UserGroup"
+            serializeAs="String">
+          <value>http://mar-dev-sp2010:8081/sites/Toxdev/_vti_bin/UserGroup.asmx</value>
+        </setting>
+        <setting name="Toxikon_Report_Automation_VersionsWS_Versions"
+            serializeAs="String">
+          <value>http://mar-dev-sp2010:8081/sites/Toxdev/_vti_bin/Versions.asmx</value>
+        </setting>
+        <setting name="Toxikon_Report_Automation_CopyWs_Copy" serializeAs="String">
+          <value>http://mar-dev-sp2010:8081/sites/Toxdev/_vti_bin/Copy.asmx</value>
+        </setting>
+        <setting name="ReportPassword" serializeAs="String">
+          <value>csg</value>
+        </setting>
+        <setting name="SPSiteURL" serializeAs="String">
+          <value>http://mar-dev-sp2010:8081/sites/Toxdev/</value>
+        </setting>
+        <setting name="InitialTaskEmail" serializeAs="String">
+          <value>rafferty@csdg.com</value>
+        </setting>
+        <setting name="Domain" serializeAs="String">
+          <value>CSGDEV</value>
+        </setting>
+        <setting name="DBConnectionString" serializeAs="String">
+          <value>Provider=SQLNCLI10;Server=10.201.4.28; Database=Toxikon_wkf; Uid=ToxikonUser; Pwd=Password01;</value>
+        </setting>
+      </RGRib.MySettings>
+    </applicationSettings>
+    <system.serviceModel>
+        <bindings />
+        <client />
+    </system.serviceModel>
+</configuration>

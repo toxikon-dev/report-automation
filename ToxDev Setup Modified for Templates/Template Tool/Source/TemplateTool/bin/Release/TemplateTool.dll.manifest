@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="TemplateTool.dll" version="1.0.0.2" publicKeyToken="210b9126ee9e070b" language="neutral" processorArchitecture="msil" type="win32" />
+  <description xmlns="urn:schemas-microsoft-com:asm.v1">TemplateTool - Word add-in created with Visual Studio Tools for Office</description>
+  <application />
+  <entryPoint>
+    <co.v1:customHostSpecified />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="ADODB" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Interop.SmartTag" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Interop.Word" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Tools.Common.v9.0" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Tools.v9.0" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Office.Tools.Word.v9.0" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Vbe.Interop" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualStudio.Tools.Applications.Hosting.v9.0" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualStudio.Tools.Applications.Runtime.v9.0" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.VisualStudio.Tools.Applications.ServerDocument.v9.0" version="9.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="office" version="12.0.0.0" publicKeyToken="71E9BCE111E9429C" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="stdole" version="7.0.3300.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TemplateTool.dll" size="32768">
+      <assemblyIdentity name="TemplateTool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>+NzeCX/4HrqwFNl+ZIdIssGxoEw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="TemplateTool.dll.config" size="2241">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>dpBokhYvAWFr55Y/SCnOuIN17VY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <vstav2:addIn xmlns:vstav2="urn:schemas-microsoft-com:vsta.v2">
+    <vstav2:entryPoints>
+      <vstav2:entryPoint class="TemplateTool.ThisAddIn">
+        <assemblyIdentity name="TemplateTool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      </vstav2:entryPoint>
+    </vstav2:entryPoints>
+    <vstav2:update enabled="true">
+      <vstav2:expiration maximumAge="7" unit="days" />
+    </vstav2:update>
+    <vstav2:application>
+      <vstov3:customization xmlns:vstov3="urn:schemas-microsoft-com:vsto.v3">
+        <vstov3:appAddIn application="Word" loadBehavior="3" keyName="TemplateTool">
+          <vstov3:friendlyName>TemplateTool</vstov3:friendlyName>
+          <vstov3:description>TemplateTool - Word add-in created with Visual Studio Tools for Office</vstov3:description>
+        </vstov3:appAddIn>
+      </vstov3:customization>
+    </vstav2:application>
+  </vstav2:addIn>
+<publisherIdentity name="CN=COURTSQUARE\fernald" issuerKeyHash="6b2aa232d5699807f809e4044d617b465b7d45d5" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>y2X4bYS5qEBI2zppHdQGtNrLZD0=</DigestValue></Reference></SignedInfo><SignatureValue>t6ZfwOzXs5yPFZHrZVZCb6dKQmB33CymPnSa/JNjmykAPBdZKEuYbo4UBQcJaJOpxnrcaukAoVYcweDgRd/aM/qElYs81wCc/z95HDiRRFowyXZbZtaINY1qC2s3AK1TiA88ejGaK7zT5XZuGXzE0ndvs/x2MztJ4bGtUTQM14I=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>z54G+R2lojbe/ronuXvydiFc+neKxsIc4dMMpLU4MMWJdSD9KLCOD9bymiqiRP/tUqNr6vqPsnppblZ+3Y/WqJ3AuJ8rZatxiFsn6KNgOeLLgP4shLPWc2BrsLnDHauDY1fFWNZdUzeDZqr65SkqQq6KEUpZnFlUAKyxVoxKZJE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="3d64cbdab406d41d693adb4840a8b9846df865cb" Description="" Url=""><as:assemblyIdentity name="TemplateTool.dll" version="1.0.0.2" publicKeyToken="210b9126ee9e070b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=COURTSQUARE\fernald</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>AsnXRgIGa94N2l4Lx/1gL+HtcwY=</DigestValue></Reference></SignedInfo><SignatureValue>KBF7HJZH0Cs5EHbOZ2izmgiGp0bhkbSkDT09iJ8Bq+VCv5rh0CcBvwabnFekun/pZ4QQIR2xVBRSBub7NOu64PN1ZQ1rAqf0SeMewurh+j6jeGoy+9qJmvW7gQG5yTcMlYdslFX7K/UYNqSKeWHAd9SBMqrhk8UBYxwu1hapoD4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>z54G+R2lojbe/ronuXvydiFc+neKxsIc4dMMpLU4MMWJdSD9KLCOD9bymiqiRP/tUqNr6vqPsnppblZ+3Y/WqJ3AuJ8rZatxiFsn6KNgOeLLgP4shLPWc2BrsLnDHauDY1fFWNZdUzeDZqr65SkqQq6KEUpZnFlUAKyxVoxKZJE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUqgAwIBAgIQa/N4ZnqGtahDVnRJLEvv0TAJBgUrDgMCHQUAMDExLzAtBgNVBAMeJgBDAE8AVQBSAFQAUwBRAFUAQQBSAEUAXABmAGUAcgBuAGEAbABkMB4XDTA5MDcwNzE5NDI0MFoXDTEwMDcwODAxNDI0MFowMTEvMC0GA1UEAx4mAEMATwBVAFIAVABTAFEAVQBBAFIARQBcAGYAZQByAG4AYQBsAGQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM+eBvkdpaI23v66J7l78nYhXPp3isbCHOHTDKS1ODDFiXUg/Siwjg/W8poqokT/7VKja+r6j7J6aW5Wft2P1qidwLifK2WrcYhbJ+ijYDniy4D+LISz1nNga7C5wx2rg2NXxVjWXVM3g2aq+uUpKkKuihFKWZxZVACssVaMSmSRAgMBAAEwCQYFKw4DAh0FAAOBgQAmlzouI4gTFkVf6oPMr9cPSJYbqYKBnsiSzrCd+nbiMOUAizvNWHYHKY/rsQBC6OWGp/54NmhxpOM1q6wgtMOE+nXzD/i3OreioIRHxmQ+UvzAYu+hXw1apOow4PA2LdVxKrMJMtfFNbtri0bFWwkxePWYCnXKnOmfnZI5dCK7jg==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

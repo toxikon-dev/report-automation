@@ -1,0 +1,30 @@
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\Kent\Kent\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\Kent\Kent\obj\Release\RAForms.Resources.resources
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\Kent\Kent\obj\Release\RAForms.vbproj.GenerateResource.Cache
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\Kent\Kent\bin\RAForms.dll
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\Kent\Kent\bin\RAForms.pdb
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\Kent\Kent\bin\RAForms.xml
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\Kent\Kent\obj\Release\RAForms.dll
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\Kent\Kent\obj\Release\RAForms.xml
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\Kent\Kent\obj\Release\RAForms.pdb
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\bin\RAForms.dll
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\bin\RAForms.pdb
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\bin\RAForms.xml
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\obj\Release\RAForms.Resources.resources
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\obj\Release\RAForms.vbproj.GenerateResource.Cache
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\obj\Release\RAForms.dll
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\obj\Release\RAForms.xml
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\obj\Release\RAForms.pdb
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\bin\RAForms.XmlSerializers.dll
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\RAForms\RAForms\obj\Release\RAForms.XmlSerializers.dll
+C:\Users\holmes-a\Documents\ToxRAForms\RAForms\bin\RAForms.dll
+C:\Users\holmes-a\Documents\ToxRAForms\RAForms\bin\RAForms.pdb
+C:\Users\holmes-a\Documents\ToxRAForms\RAForms\bin\RAForms.xml
+C:\Users\holmes-a\Documents\ToxRAForms\RAForms\obj\Release\ResolveAssemblyReference.cache
+C:\Users\holmes-a\Documents\ToxRAForms\RAForms\obj\Release\RAForms.Resources.resources
+C:\Users\holmes-a\Documents\ToxRAForms\RAForms\obj\Release\ResGen.read.1.tlog
+C:\Users\holmes-a\Documents\ToxRAForms\RAForms\obj\Release\ResGen.write.1.tlog
+C:\Users\holmes-a\Documents\ToxRAForms\RAForms\obj\Release\RAForms.dll
+C:\Users\holmes-a\Documents\ToxRAForms\RAForms\obj\Release\RAForms.xml
+C:\Users\holmes-a\Documents\ToxRAForms\RAForms\obj\Release\RAForms.pdb

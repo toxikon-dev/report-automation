@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TemplateTool
+</name>
+</assembly>
+<members>
+<member name="P:TemplateTool.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:TemplateTool.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:TemplateTool.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:TemplateTool.ThisAddIn.#ctor">
+</member><member name="M:TemplateTool.ThisAddIn.Initialize">
+</member><member name="M:TemplateTool.ThisAddIn.FinishInitialization">
+</member><member name="M:TemplateTool.ThisAddIn.InitializeDataBindings">
+</member><member name="M:TemplateTool.ThisAddIn.InitializeCachedData">
+</member><member name="M:TemplateTool.ThisAddIn.InitializeData">
+</member><member name="M:TemplateTool.ThisAddIn.BindToData">
+</member><member name="M:TemplateTool.ThisAddIn.StartCaching(System.String)">
+</member><member name="M:TemplateTool.ThisAddIn.StopCaching(System.String)">
+</member><member name="M:TemplateTool.ThisAddIn.IsCached(System.String)">
+</member><member name="M:TemplateTool.ThisAddIn.BeginInitialization">
+</member><member name="M:TemplateTool.ThisAddIn.EndInitialization">
+</member><member name="M:TemplateTool.ThisAddIn.InitializeControls">
+</member><member name="M:TemplateTool.ThisAddIn.InitializeComponents">
+</member><member name="M:TemplateTool.ThisAddIn.NeedsFill(System.String)">
+</member><member name="M:TemplateTool.ThisAddIn.OnShutdown">
+</member><member name="T:TemplateTool.ThisAddIn">
+</member><member name="M:TemplateTool.Globals.#ctor">
+</member><member name="T:TemplateTool.Globals">
+</member><member name="T:TemplateTool.ThisRibbonCollection">
+</member>
+</members>
+</doc>

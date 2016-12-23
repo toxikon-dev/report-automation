@@ -1,0 +1,1526 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RAForms
+</name>
+</assembly>
+<members>
+<member name="F:RAForms.Ames_Test_Results_Form.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.SqlDataSource4">
+	<summary>
+SqlDataSource4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.StudyDropDownList">
+	<summary>
+StudyDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.StudyDropDownList2">
+	<summary>
+StudyDropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.InsertCancelBeforeSelectButton">
+	<summary>
+InsertCancelBeforeSelectButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.DropDownList2">
+	<summary>
+DropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.DropDownList7">
+	<summary>
+DropDownList7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.DropDownList3">
+	<summary>
+DropDownList3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.DropDownList4">
+	<summary>
+DropDownList4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.CheckBox1">
+	<summary>
+CheckBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.TextBox1">
+	<summary>
+TextBox1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.CompareValidator1">
+	<summary>
+CompareValidator1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.TextBox2">
+	<summary>
+TextBox2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.CompareValidator2">
+	<summary>
+CompareValidator2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.DropDownList5">
+	<summary>
+DropDownList5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.DropDownList6">
+	<summary>
+DropDownList6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.Button2">
+	<summary>
+Button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.ListView1">
+	<summary>
+ListView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.LabelRecordsReturned">
+	<summary>
+LabelRecordsReturned control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.SqlDataSource4">
+	<summary>
+SqlDataSource4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.SqlDataSource5">
+	<summary>
+SqlDataSource5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Workflow.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:RAForms.ListsWS.Lists.#ctor">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListAndViewCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.DeleteListCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.AddListCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.AddListFromFeatureCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UpdateListCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListCollectionCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListItemsCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListItemChangesCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListItemChangesSinceTokenCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UpdateListItemsCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.AddDiscussionBoardItemCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetVersionCollectionCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.AddAttachmentCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetAttachmentCollectionCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.DeleteAttachmentCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.CheckOutFileCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UndoCheckOutCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.CheckInFileCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListContentTypesCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListContentTypeCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.CreateContentTypeCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UpdateContentTypeCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.DeleteContentTypeCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UpdateContentTypeXmlDocumentCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UpdateContentTypesXmlDocumentCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.DeleteContentTypeXmlDocumentCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.ApplyContentTypeToListCompleted">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetList(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListAndView(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListAndViewAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListAndViewAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteList(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteListAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteListAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddList(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddListAsync(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddListAsync(System.String,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddListFromFeature(System.String,System.String,System.Guid,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddListFromFeatureAsync(System.String,System.String,System.Guid,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddListFromFeatureAsync(System.String,System.String,System.Guid,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateList(System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateListAsync(System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateListAsync(System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListCollection">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListCollectionAsync">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListCollectionAsync(System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItems(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemsAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemsAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChanges(System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChangesAsync(System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChangesAsync(System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChangesSinceToken(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChangesSinceTokenAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChangesSinceTokenAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateListItems(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateListItemsAsync(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateListItemsAsync(System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddDiscussionBoardItem(System.String,System.Byte[])">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddDiscussionBoardItemAsync(System.String,System.Byte[])">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddDiscussionBoardItemAsync(System.String,System.Byte[],System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetVersionCollection(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetVersionCollectionAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetVersionCollectionAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddAttachment(System.String,System.String,System.String,System.Byte[])">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddAttachmentAsync(System.String,System.String,System.String,System.Byte[])">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddAttachmentAsync(System.String,System.String,System.String,System.Byte[],System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetAttachmentCollection(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetAttachmentCollectionAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetAttachmentCollectionAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteAttachment(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteAttachmentAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteAttachmentAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckOutFile(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckOutFileAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckOutFileAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UndoCheckOut(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UndoCheckOutAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UndoCheckOutAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckInFile(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckInFileAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckInFileAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentTypes(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentTypesAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentTypesAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentType(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentTypeAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentTypeAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CreateContentType(System.String,System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CreateContentTypeAsync(System.String,System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CreateContentTypeAsync(System.String,System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentType(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypeAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypeAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentType(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentTypeAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentTypeAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypeXmlDocument(System.String,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypeXmlDocumentAsync(System.String,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypeXmlDocumentAsync(System.String,System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypesXmlDocument(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypesXmlDocumentAsync(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypesXmlDocumentAsync(System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentTypeXmlDocument(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentTypeXmlDocumentAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentTypeXmlDocumentAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.ApplyContentTypeToList(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.ApplyContentTypeToListAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.ApplyContentTypeToListAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.Lists">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListAndViewCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListAndViewCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListAndViewCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteListCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.AddListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddListFromFeatureCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.AddListFromFeatureCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddListFromFeatureCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UpdateListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListCollectionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListCollectionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListCollectionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListItemsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemChangesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListItemChangesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemChangesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemChangesSinceTokenCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListItemChangesSinceTokenCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemChangesSinceTokenCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateListItemsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UpdateListItemsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateListItemsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddDiscussionBoardItemCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.AddDiscussionBoardItemCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddDiscussionBoardItemCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetVersionCollectionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetVersionCollectionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetVersionCollectionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddAttachmentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.AddAttachmentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddAttachmentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetAttachmentCollectionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetAttachmentCollectionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetAttachmentCollectionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteAttachmentCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CheckOutFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.CheckOutFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CheckOutFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UndoCheckOutCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UndoCheckOutCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UndoCheckOutCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CheckInFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.CheckInFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CheckInFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListContentTypesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListContentTypesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListContentTypesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListContentTypeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListContentTypeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListContentTypeCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CreateContentTypeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.CreateContentTypeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CreateContentTypeCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UpdateContentTypeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypeCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteContentTypeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.DeleteContentTypeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteContentTypeCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypeXmlDocumentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UpdateContentTypeXmlDocumentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypeXmlDocumentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypesXmlDocumentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UpdateContentTypesXmlDocumentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypesXmlDocumentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteContentTypeXmlDocumentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.DeleteContentTypeXmlDocumentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteContentTypeXmlDocumentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.ApplyContentTypeToListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.ApplyContentTypeToListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.ApplyContentTypeToListCompletedEventArgs">
+	<remarks/>
+</member><member name="F:RAForms.Kligman.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.SqlDataSource4">
+	<summary>
+SqlDataSource4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.StudyDropDownList">
+	<summary>
+StudyDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.StudyDropDownList2">
+	<summary>
+StudyDropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.InsertCancelBeforeSelectButton">
+	<summary>
+InsertCancelBeforeSelectButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:RAForms.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RAForms.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:RAForms.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:RAForms.Studies.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource4">
+	<summary>
+SqlDataSource4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource5">
+	<summary>
+SqlDataSource5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource6">
+	<summary>
+SqlDataSource6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource7">
+	<summary>
+SqlDataSource7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource8">
+	<summary>
+SqlDataSource8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.DropDownList2">
+	<summary>
+DropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.InsertCancelBeforeSelectButton">
+	<summary>
+InsertCancelBeforeSelectButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.FormView2">
+	<summary>
+FormView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LinkButton1">
+	<summary>
+LinkButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LinkButton2">
+	<summary>
+LinkButton2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LinkButton3">
+	<summary>
+LinkButton3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LinkButton4">
+	<summary>
+LinkButton4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.SqlDataSource4">
+	<summary>
+SqlDataSource4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.StudyDropDownList">
+	<summary>
+StudyDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.StudyDropDownList2">
+	<summary>
+StudyDropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.InsertCancelBeforeSelectButton">
+	<summary>
+InsertCancelBeforeSelectButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.StudyDropDownList">
+	<summary>
+StudyDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.StudyDropDownList2">
+	<summary>
+StudyDropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.InsertCancelBeforeSelectButton">
+	<summary>
+InsertCancelBeforeSelectButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.ErrorPage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.ErrorPage.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.ErrorPage.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.ErrorPage.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.ErrorPage.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

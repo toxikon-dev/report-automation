@@ -1,0 +1,50 @@
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Debug\TemplateTool.dll
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Debug\TemplateTool.pdb
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Debug\TemplateTool.xml
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Debug\TemplateTool.dll.manifest
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Debug\TemplateTool.vsto
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Debug\TemplateTool.Resources.resources
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Debug\TemplateTool.Ribbon1.resources
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Debug\TemplateTool.vbproj.GenerateResource.Cache
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Debug\TemplateTool.dll
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Debug\TemplateTool.xml
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Debug\TemplateTool.pdb
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Debug\TemplateTool.Dialog1.resources
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Debug\TemplateTool.Dialog2.resources
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Debug\TemplateTool.dll.config
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Debug\TemplateTool.UserForm5.resources
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\bin\Debug\TemplateTool.dll.config
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\bin\Debug\TemplateTool.dll
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\bin\Debug\TemplateTool.pdb
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\bin\Debug\TemplateTool.xml
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\bin\Debug\TemplateTool.dll.manifest
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\bin\Debug\TemplateTool.vsto
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\TemplateTool.Dialog1.resources
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\TemplateTool.Dialog2.resources
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\TemplateTool.UserForm5.resources
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\TemplateTool.Resources.resources
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\TemplateTool.Ribbon1.resources
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\TemplateTool.dll
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\TemplateTool.xml
+C:\Users\holmes\Documents\AA Projects\Toxikon\TemplateTool\TemplateTool\obj\Debug\TemplateTool.pdb
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\ResolveAssemblyReference.cache
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\TemplateTool.Dialog1.resources
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\TemplateTool.Dialog2.resources
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\TemplateTool.UserForm5.resources
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\TemplateTool.Resources.resources
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\TemplateTool.Ribbon1.resources
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\TemplateTool.dll
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\TemplateTool.xml
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\obj\Debug\TemplateTool.pdb
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\bin\Debug\TemplateTool.dll.config
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\bin\Debug\TemplateTool.dll
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\bin\Debug\TemplateTool.pdb
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\bin\Debug\TemplateTool.xml
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\bin\Debug\TemplateTool.dll.manifest
+\\csdg-spr-bs01\Common\Applications Support\ToxDev Setup\Template Tool\Source\TemplateTool\bin\Debug\TemplateTool.vsto

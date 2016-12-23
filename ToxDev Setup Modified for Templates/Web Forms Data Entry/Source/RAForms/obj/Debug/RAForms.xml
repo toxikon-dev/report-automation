@@ -1,0 +1,1902 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RAForms
+</name>
+</assembly>
+<members>
+<member name="F:RAForms.Inspection.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Inspection.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource4">
+	<summary>
+SqlDataSource4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource5">
+	<summary>
+SqlDataSource5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource6">
+	<summary>
+SqlDataSource6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.SqlDataSource7">
+	<summary>
+SqlDataSource7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.DropDownList2">
+	<summary>
+DropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.InsertCancelBeforeSelectButton">
+	<summary>
+InsertCancelBeforeSelectButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.FormView2">
+	<summary>
+FormView2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Studies.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.LabSchedule.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.#ctor">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromSiteCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromWebCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetAllUserCollectionFromWebCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromGroupCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromRoleCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetUserCollectionCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetUserInfoCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.AddUserToGroupCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.AddUserCollectionToGroupCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.AddUserToRoleCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.AddUserCollectionToRoleCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.UpdateUserInfoCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.RemoveUserFromSiteCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromSiteCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.RemoveUserFromWebCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.RemoveUserFromGroupCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromGroupCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.RemoveUserFromRoleCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromRoleCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromSiteCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromWebCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromRoleCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromUserCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetGroupCollectionCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetGroupInfoCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.AddGroupCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.AddGroupToRoleCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.UpdateGroupInfoCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.RemoveGroupCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.RemoveGroupFromRoleCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromWebCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromGroupCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromUserCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetRoleCollectionCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetRoleInfoCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.AddRoleCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.AddRoleDefCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.UpdateRoleInfoCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.UpdateRoleDefInfoCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.RemoveRoleCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetUserLoginFromEmailCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetRolesAndPermissionsForCurrentUserCompleted">
+	<remarks/>
+</member><member name="E:RAForms.UserGroupWS.UserGroup.GetRolesAndPermissionsForSiteCompleted">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromSite">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromSiteAsync">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromSiteAsync(System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromWeb">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromWebAsync">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromWebAsync(System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetAllUserCollectionFromWeb">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetAllUserCollectionFromWebAsync">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetAllUserCollectionFromWebAsync(System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromGroup(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromGroupAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromGroupAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromRole(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromRoleAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionFromRoleAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollection(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserCollectionAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserInfo(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserInfoAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserInfoAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserToGroup(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserToGroupAsync(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserToGroupAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserCollectionToGroup(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserCollectionToGroupAsync(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserCollectionToGroupAsync(System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserToRole(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserToRoleAsync(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserToRoleAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserCollectionToRole(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserCollectionToRoleAsync(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddUserCollectionToRoleAsync(System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateUserInfo(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateUserInfoAsync(System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateUserInfoAsync(System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromSite(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromSiteAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromSiteAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromSite(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromSiteAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromSiteAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromWeb(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromWebAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromWebAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromGroup(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromGroupAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromGroupAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromGroup(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromGroupAsync(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromGroupAsync(System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromRole(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromRoleAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserFromRoleAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromRole(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromRoleAsync(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveUserCollectionFromRoleAsync(System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromSite">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromSiteAsync">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromSiteAsync(System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromWeb">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromWebAsync">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromWebAsync(System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromRole(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromRoleAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromRoleAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromUser(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromUserAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionFromUserAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollection(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupCollectionAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupInfo(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupInfoAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetGroupInfoAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddGroup(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddGroupAsync(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddGroupAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddGroupToRole(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddGroupToRoleAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddGroupToRoleAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateGroupInfo(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateGroupInfoAsync(System.String,System.String,System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateGroupInfoAsync(System.String,System.String,System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveGroup(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveGroupAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveGroupAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveGroupFromRole(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveGroupFromRoleAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveGroupFromRoleAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromWeb">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromWebAsync">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromWebAsync(System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromGroup(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromGroupAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromGroupAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromUser(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromUserAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionFromUserAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollection(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleCollectionAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleInfo(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleInfoAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRoleInfoAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddRole(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddRoleAsync(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddRoleAsync(System.String,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddRoleDef(System.String,System.String,System.UInt64)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddRoleDefAsync(System.String,System.String,System.UInt64)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.AddRoleDefAsync(System.String,System.String,System.UInt64,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateRoleInfo(System.String,System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateRoleInfoAsync(System.String,System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateRoleInfoAsync(System.String,System.String,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateRoleDefInfo(System.String,System.String,System.String,System.UInt64)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateRoleDefInfoAsync(System.String,System.String,System.String,System.UInt64)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.UpdateRoleDefInfoAsync(System.String,System.String,System.String,System.UInt64,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveRole(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveRoleAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.RemoveRoleAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserLoginFromEmail(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserLoginFromEmailAsync(System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetUserLoginFromEmailAsync(System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRolesAndPermissionsForCurrentUser">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRolesAndPermissionsForCurrentUserAsync">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRolesAndPermissionsForCurrentUserAsync(System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRolesAndPermissionsForSite">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRolesAndPermissionsForSiteAsync">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.GetRolesAndPermissionsForSiteAsync(System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.UserGroupWS.UserGroup.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.UserGroup">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserCollectionFromSiteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetUserCollectionFromSiteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserCollectionFromSiteCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserCollectionFromWebCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetUserCollectionFromWebCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserCollectionFromWebCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetAllUserCollectionFromWebCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetAllUserCollectionFromWebCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetAllUserCollectionFromWebCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserCollectionFromGroupCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetUserCollectionFromGroupCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserCollectionFromGroupCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserCollectionFromRoleCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetUserCollectionFromRoleCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserCollectionFromRoleCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserCollectionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetUserCollectionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserCollectionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserInfoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetUserInfoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserInfoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.AddUserToGroupCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.AddUserCollectionToGroupCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.AddUserToRoleCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.AddUserCollectionToRoleCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.UpdateUserInfoCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.RemoveUserFromSiteCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.RemoveUserCollectionFromSiteCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.RemoveUserFromWebCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.RemoveUserFromGroupCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.RemoveUserCollectionFromGroupCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.RemoveUserFromRoleCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.RemoveUserCollectionFromRoleCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupCollectionFromSiteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetGroupCollectionFromSiteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupCollectionFromSiteCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupCollectionFromWebCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetGroupCollectionFromWebCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupCollectionFromWebCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupCollectionFromRoleCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetGroupCollectionFromRoleCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupCollectionFromRoleCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupCollectionFromUserCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetGroupCollectionFromUserCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupCollectionFromUserCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupCollectionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetGroupCollectionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupCollectionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupInfoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetGroupInfoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetGroupInfoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.AddGroupCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.AddGroupToRoleCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.UpdateGroupInfoCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.RemoveGroupCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.RemoveGroupFromRoleCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRoleCollectionFromWebCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetRoleCollectionFromWebCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRoleCollectionFromWebCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRoleCollectionFromGroupCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetRoleCollectionFromGroupCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRoleCollectionFromGroupCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRoleCollectionFromUserCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetRoleCollectionFromUserCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRoleCollectionFromUserCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRoleCollectionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetRoleCollectionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRoleCollectionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRoleInfoCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetRoleInfoCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRoleInfoCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.AddRoleCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.AddRoleDefCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.UpdateRoleInfoCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.UpdateRoleDefInfoCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.RemoveRoleCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserLoginFromEmailCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetUserLoginFromEmailCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetUserLoginFromEmailCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRolesAndPermissionsForCurrentUserCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetRolesAndPermissionsForCurrentUserCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRolesAndPermissionsForCurrentUserCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRolesAndPermissionsForSiteCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.UserGroupWS.GetRolesAndPermissionsForSiteCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.UserGroupWS.GetRolesAndPermissionsForSiteCompletedEventArgs">
+	<remarks/>
+</member><member name="F:RAForms.Ames_Test_Results_Form.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.SqlDataSource4">
+	<summary>
+SqlDataSource4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.StudyDropDownList">
+	<summary>
+StudyDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.StudyDropDownList2">
+	<summary>
+StudyDropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.InsertCancelBeforeSelectButton">
+	<summary>
+InsertCancelBeforeSelectButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Ames_Test_Results_Form.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.SqlDataSource4">
+	<summary>
+SqlDataSource4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.StudyDropDownList">
+	<summary>
+StudyDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.StudyDropDownList2">
+	<summary>
+StudyDropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.InsertCancelBeforeSelectButton">
+	<summary>
+InsertCancelBeforeSelectButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.AgarDiffusion.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Samples.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="M:RAForms.ListsWS.Lists.#ctor">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListAndViewCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.DeleteListCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.AddListCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.AddListFromFeatureCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UpdateListCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListCollectionCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListItemsCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListItemChangesCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListItemChangesSinceTokenCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UpdateListItemsCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.AddDiscussionBoardItemCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetVersionCollectionCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.AddAttachmentCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetAttachmentCollectionCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.DeleteAttachmentCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.CheckOutFileCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UndoCheckOutCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.CheckInFileCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListContentTypesCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.GetListContentTypeCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.CreateContentTypeCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UpdateContentTypeCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.DeleteContentTypeCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UpdateContentTypeXmlDocumentCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.UpdateContentTypesXmlDocumentCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.DeleteContentTypeXmlDocumentCompleted">
+	<remarks/>
+</member><member name="E:RAForms.ListsWS.Lists.ApplyContentTypeToListCompleted">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetList(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListAndView(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListAndViewAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListAndViewAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteList(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteListAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteListAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddList(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddListAsync(System.String,System.String,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddListAsync(System.String,System.String,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddListFromFeature(System.String,System.String,System.Guid,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddListFromFeatureAsync(System.String,System.String,System.Guid,System.Int32)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddListFromFeatureAsync(System.String,System.String,System.Guid,System.Int32,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateList(System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateListAsync(System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateListAsync(System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListCollection">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListCollectionAsync">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListCollectionAsync(System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItems(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemsAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemsAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChanges(System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChangesAsync(System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChangesAsync(System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChangesSinceToken(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChangesSinceTokenAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListItemChangesSinceTokenAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateListItems(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateListItemsAsync(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateListItemsAsync(System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddDiscussionBoardItem(System.String,System.Byte[])">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddDiscussionBoardItemAsync(System.String,System.Byte[])">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddDiscussionBoardItemAsync(System.String,System.Byte[],System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetVersionCollection(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetVersionCollectionAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetVersionCollectionAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddAttachment(System.String,System.String,System.String,System.Byte[])">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddAttachmentAsync(System.String,System.String,System.String,System.Byte[])">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.AddAttachmentAsync(System.String,System.String,System.String,System.Byte[],System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetAttachmentCollection(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetAttachmentCollectionAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetAttachmentCollectionAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteAttachment(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteAttachmentAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteAttachmentAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckOutFile(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckOutFileAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckOutFileAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UndoCheckOut(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UndoCheckOutAsync(System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UndoCheckOutAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckInFile(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckInFileAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CheckInFileAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentTypes(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentTypesAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentTypesAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentType(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentTypeAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.GetListContentTypeAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CreateContentType(System.String,System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CreateContentTypeAsync(System.String,System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CreateContentTypeAsync(System.String,System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentType(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypeAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypeAsync(System.String,System.String,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.Xml.XmlNode,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentType(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentTypeAsync(System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentTypeAsync(System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypeXmlDocument(System.String,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypeXmlDocumentAsync(System.String,System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypeXmlDocumentAsync(System.String,System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypesXmlDocument(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypesXmlDocumentAsync(System.String,System.Xml.XmlNode)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.UpdateContentTypesXmlDocumentAsync(System.String,System.Xml.XmlNode,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentTypeXmlDocument(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentTypeXmlDocumentAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.DeleteContentTypeXmlDocumentAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.ApplyContentTypeToList(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.ApplyContentTypeToListAsync(System.String,System.String,System.String)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.ApplyContentTypeToListAsync(System.String,System.String,System.String,System.Object)">
+	<remarks/>
+</member><member name="M:RAForms.ListsWS.Lists.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.Lists">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListAndViewCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListAndViewCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListAndViewCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteListCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.AddListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddListFromFeatureCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.AddListFromFeatureCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddListFromFeatureCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UpdateListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateListCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListCollectionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListCollectionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListCollectionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListItemsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemChangesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListItemChangesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemChangesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemChangesSinceTokenCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListItemChangesSinceTokenCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListItemChangesSinceTokenCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateListItemsCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UpdateListItemsCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateListItemsCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddDiscussionBoardItemCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.AddDiscussionBoardItemCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddDiscussionBoardItemCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetVersionCollectionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetVersionCollectionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetVersionCollectionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddAttachmentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.AddAttachmentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.AddAttachmentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetAttachmentCollectionCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetAttachmentCollectionCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetAttachmentCollectionCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteAttachmentCompletedEventHandler">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CheckOutFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.CheckOutFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CheckOutFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UndoCheckOutCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UndoCheckOutCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UndoCheckOutCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CheckInFileCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.CheckInFileCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CheckInFileCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListContentTypesCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListContentTypesCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListContentTypesCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListContentTypeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.GetListContentTypeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.GetListContentTypeCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CreateContentTypeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.CreateContentTypeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.CreateContentTypeCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UpdateContentTypeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypeCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteContentTypeCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.DeleteContentTypeCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteContentTypeCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypeXmlDocumentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UpdateContentTypeXmlDocumentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypeXmlDocumentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypesXmlDocumentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.UpdateContentTypesXmlDocumentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.UpdateContentTypesXmlDocumentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteContentTypeXmlDocumentCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.DeleteContentTypeXmlDocumentCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.DeleteContentTypeXmlDocumentCompletedEventArgs">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.ApplyContentTypeToListCompletedEventHandler">
+	<remarks/>
+</member><member name="P:RAForms.ListsWS.ApplyContentTypeToListCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:RAForms.ListsWS.ApplyContentTypeToListCompletedEventArgs">
+	<remarks/>
+</member><member name="F:RAForms.Users.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Users.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Proxies.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Proxies.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Proxies.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Proxies.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Proxies.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Proxies.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Proxies.Repeater1">
+	<summary>
+Repeater1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LinkButton1">
+	<summary>
+LinkButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LinkButton2">
+	<summary>
+LinkButton2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LinkButton3">
+	<summary>
+LinkButton3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LinkButton4">
+	<summary>
+LinkButton4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms._default.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.ErrorPage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.ErrorPage.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.ErrorPage.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.ErrorPage.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.ErrorPage.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:RAForms.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:RAForms.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:RAForms.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:RAForms.Kligman.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.SqlDataSource4">
+	<summary>
+SqlDataSource4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.StudyDropDownList">
+	<summary>
+StudyDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.StudyDropDownList2">
+	<summary>
+StudyDropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.InsertCancelBeforeSelectButton">
+	<summary>
+InsertCancelBeforeSelectButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Kligman.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.DropDownList1">
+	<summary>
+DropDownList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.Protocols.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.SqlDataSource1">
+	<summary>
+SqlDataSource1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.SqlDataSource2">
+	<summary>
+SqlDataSource2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.SqlDataSource3">
+	<summary>
+SqlDataSource3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.StudyDropDownList">
+	<summary>
+StudyDropDownList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.StudyDropDownList2">
+	<summary>
+StudyDropDownList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.InsertCancelBeforeSelectButton">
+	<summary>
+InsertCancelBeforeSelectButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.FormView1">
+	<summary>
+FormView1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.LabelUsername">
+	<summary>
+LabelUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:RAForms.MEMElution.LabelDB">
+	<summary>
+LabelDB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

@@ -1,0 +1,15 @@
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Release\TemplateTool.dll.config
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Release\TemplateTool.dll
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Release\TemplateTool.pdb
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Release\TemplateTool.xml
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Release\TemplateTool.dll.manifest
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\bin\Release\TemplateTool.vsto
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Release\TemplateTool.Dialog1.resources
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Release\TemplateTool.Dialog2.resources
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Release\TemplateTool.Resources.resources
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Release\TemplateTool.Ribbon1.resources
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Release\TemplateTool.vbproj.GenerateResource.Cache
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Release\TemplateTool.dll
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Release\TemplateTool.xml
+C:\Documents and Settings\fernald\My Documents\Visual Studio 2008\Projects\TemplateTool\TemplateTool\obj\Release\TemplateTool.pdb
